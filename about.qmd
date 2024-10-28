@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+These are notes for {*insert course name here*}. 

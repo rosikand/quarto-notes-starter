@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "These are notes for {insert course name here}."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "{Insert Name Here} Notes",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 28, 2024\n\n\nLecture 1\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "woot.html",
+    "href": "woot.html",
+    "title": "About",
+    "section": "",
+    "text": "These are notes for {insert course name here}."
+  },
+  {
+    "objectID": "yoop.html",
+    "href": "yoop.html",
+    "title": "About",
+    "section": "",
+    "text": "These are notes for {insert course name here}."
+  },
+  {
+    "objectID": "posts/lecture-1.html",
+    "href": "posts/lecture-1.html",
+    "title": "Lecture 1",
+    "section": "",
+    "text": "This is a post note."
+  }
+]

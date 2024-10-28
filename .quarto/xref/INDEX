@@ -1,0 +1,23 @@
+{
+  "posts/post-with-code/index.qmd": {
+    "index.html": "9b4830a5"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "d2b84eb9"
+  },
+  "index.qmd": {
+    "index.html": "822a2ddc"
+  },
+  "about.qmd": {
+    "about.html": "0d1df381"
+  },
+  "woot.qmd": {
+    "woot.html": "13944bf9"
+  },
+  "yoop.qmd": {
+    "yoop.html": "28710415"
+  },
+  "posts/lecture-1.md": {
+    "lecture-1.html": "cc88ec9a"
+  }
+}

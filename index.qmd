@@ -1,0 +1,14 @@
+---
+title: "{*Insert Name Here*} Notes"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+# title-block-banner: true
+---
+
+
